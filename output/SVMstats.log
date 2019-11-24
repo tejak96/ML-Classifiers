@@ -1,0 +1,6 @@
+Training set size: 10783
+Test set size: 2696
+training time: 337.635 s
+predicting time: 40.443 s
+Accuracy: 89.76%
+0.0% predicted with confidence less than 15
